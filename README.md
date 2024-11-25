@@ -2,9 +2,9 @@
 # Principios y Elementos de Diseño Visual
 1. Uso del Color
 Para este caso, usamos los colores especificados:
-Naranja (#FFA22A): Utilizado para resaltar elementos clave como los botones de acción (botones de "Enviar", "Menú" y elementos destacados en los servicios), creando un contraste cálido y llamativo.
-Verde (#82AC26): Se usa para proporcionar contraste y enfatizar la calma y la confianza, como en los textos principales y fondos de secciones, generando una sensación de estabilidad y seguridad.
-Morado (#4F3F84): Aplicado en encabezados y menús para proporcionar elegancia y equilibrio. Es un color que resalta sin sobrecargar la vista.
+1. Naranja (#FFA22A): Utilizado para resaltar elementos clave como los botones de acción (botones de "Enviar", "Menú" y elementos destacados en los servicios), creando un contraste cálido y llamativo.
+2. Verde (#82AC26): Se usa para proporcionar contraste y enfatizar la calma y la confianza, como en los textos principales y fondos de secciones, generando una sensación de estabilidad y seguridad.
+3. Morado (#4F3F84): Aplicado en encabezados y menús para proporcionar elegancia y equilibrio. Es un color que resalta sin sobrecargar la vista.
 Contraste y Jerarquía Visual:
 El uso de colores complementarios (como el naranja con el morado) permite crear jerarquía visual entre los elementos, dirigiendo la atención del usuario hacia las acciones importantes (botones, enlaces).
 Secciones bien delimitadas: Los colores de fondo para cada sección están diseñados para separar claramente las áreas de contenido, como los servicios, el contacto y la información de la plataforma.
